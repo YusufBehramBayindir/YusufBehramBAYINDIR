@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yusufbehrambayindir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusufbehrambayindir/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusufbehrambayindir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusufbehrambayindir/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19046818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19046818" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/yusufbehrambayindir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yusufbehrambayindir" height="30" width="40" /></a>
 <a href="https://medium.com/@yusufbehrambayindir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusufbehrambayindir" height="30" width="40" /></a>
