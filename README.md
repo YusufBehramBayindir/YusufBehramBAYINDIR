@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yusuf Behram BAYINDIR</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **CRM and Recommendation System !**
+- 🔭 I’m currently working on **Machine Learning Algorithm !**
 
-- 🌱 I’m currently learning ** Machine Learning Models **
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 📝 I regularly write articles on [https://medium.com/@yusufbehrambayindir](https://medium.com/@yusufbehrambayindir)
 
