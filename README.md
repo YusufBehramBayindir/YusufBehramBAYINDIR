@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yusufbhrm@gmail.com**
 
-- ⚡ Fun fact **I'm professional tennis player :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
